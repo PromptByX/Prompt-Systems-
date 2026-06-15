@@ -2,7 +2,6 @@ PromptByX
 
 Building Natural, Culture-Aware Prompt Systems for Global Businesses
 
----
 
 About Us
 
