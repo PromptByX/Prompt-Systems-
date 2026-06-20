@@ -22,4 +22,4 @@ Core Flow:
 
 
 
-### Master Prompt (Claude Opus / GPT-4.1 / Grok recommended)
+### Master Prompt (Claude Opus / GPT-4.1 / Grok)
